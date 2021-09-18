@@ -1,0 +1,7 @@
+set(COMPONENT_ADD_INCLUDEDIRS "include")
+set(COMPONENT_PRIV_REQUIRES)
+set(COMPONENT_SRCS "mhz19.c")
+
+set(COMPONENT_REQUIRES)
+
+register_component()
